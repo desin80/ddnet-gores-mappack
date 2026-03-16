@@ -1,10 +1,10 @@
 # DDNet Gores Mappack
 
-Language: [中文](README.md) | [English](README.en.md)
+[中文](README.md) | [English](README.en.md)
 
 This repository contains gores maps collected personally.
 
-> Note: metadata may not be 100% accurate.
+> metadata may not be 100% accurate.
 
 ## Contents
 
