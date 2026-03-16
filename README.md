@@ -1,10 +1,10 @@
 # DDNet Gores 地图包
 
-语言切换：[中文](README.md) | [English](README.en.md)
+[中文](README.md) | [English](README.en.md)
 
 该仓库包含了个人收集的 gores 地图。
 
-> 说明：metadata 可能不是 100% 准确。
+> metadata 可能不是 100% 准确。
 
 ## 内容
 
