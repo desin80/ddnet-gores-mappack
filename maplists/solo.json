@@ -3,7 +3,7 @@
         "name": "bloodbath",
         "stars": 5,
         "points": 145,
-        "author": "Unknown"
+        "author": "vittrr7"
     },
     {
         "name": "Arise",
@@ -39,7 +39,7 @@
         "name": "Chaos_ReiGn",
         "stars": 5,
         "points": 50,
-        "author": "Unknown"
+        "author": "Fe1zik"
     },
     {
         "name": "Decimation",
@@ -118,6 +118,12 @@
         "stars": 5,
         "points": 44,
         "author": "Milaseq_"
+    },
+    {
+        "name": "Nocturne",
+        "stars": 2,
+        "points": 6,
+        "author": "Canarda"
     },
     {
         "name": "Oaklands",
@@ -215,16 +221,22 @@
         "points": 25,
         "author": "怯修"
     },
-  {
-    "name": "Familiar",
-    "stars": 3,
-    "points": 37,
-    "author": "HA_bl"
-  },
-  {
-    "name": "The_Tower",
-    "stars": 5,
-    "points": 44,
-    "author": "SlyDzE"
-  }
+    {
+        "name": "Familiar",
+        "stars": 3,
+        "points": 37,
+        "author": "HA_bl"
+    },
+    {
+        "name": "The_Tower",
+        "stars": 5,
+        "points": 44,
+        "author": "SlyDzE"
+    },
+    {
+        "name": "Zen",
+        "stars": 2,
+        "points": 6,
+        "author": "FJP"
+    }
 ]
