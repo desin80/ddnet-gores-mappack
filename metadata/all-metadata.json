@@ -4130,6 +4130,13 @@
         "author": "Krumplee"
     },
     {
+        "name": "KrumpleePark-solo",
+        "difficulty": "Solo",
+        "stars": 3,
+        "points": 35,
+        "author": "Krush"
+    },
+    {
         "name": "Labyrinth",
         "difficulty": "Hard",
         "stars": 1,
@@ -8012,6 +8019,13 @@
         "difficulty": "Hard",
         "stars": 1,
         "points": 20,
+        "author": "万事屋阿银"
+    },
+    {
+        "name": "绝地求生",
+        "difficulty": "Hard",
+        "stars": 1,
+        "points": 16,
         "author": "万事屋阿银"
     }
 ]
