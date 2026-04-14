@@ -1,34 +1,12 @@
 {
-  "total_maps": 1147,
-  "by_difficulty": {
-    "Main": {
-      "count": 346,
-      "points": 3705
-    },
-    "Hard": {
-      "count": 337,
-      "points": 7345
-    },
-    "Insane": {
-      "count": 273,
-      "points": 10406
-    },
-    "Extreme": {
-      "count": 75,
-      "points": 5660
-    },
-    "Easy": {
-      "count": 33,
-      "points": 106
-    },
-    "Solo": {
-      "count": 40,
-      "points": 968
-    },
-    "Mod": {
-      "count": 43,
-      "points": 909
+    "total_maps": 1147,
+    "by_difficulty": {
+        "Main": 346,
+        "Hard": 337,
+        "Insane": 273,
+        "Extreme": 75,
+        "Easy": 33,
+        "Solo": 40,
+        "Mod": 43
     }
-  },
-  "total_points": 29099
 }
