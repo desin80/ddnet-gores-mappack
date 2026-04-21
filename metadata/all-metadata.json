@@ -8041,5 +8041,12 @@
         "stars": 2,
         "points": 62,
         "author": "Krush"
+    },
+    {
+        "name": "Justice",
+        "difficulty": "Easy",
+        "stars": 3,
+        "points": 3,
+        "author": "Afterbjörn"
     }
 ]
