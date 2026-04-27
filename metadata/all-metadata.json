@@ -8062,5 +8062,12 @@
         "stars": 5,
         "points": 180,
         "author": "Yoki"
+    },
+    {
+        "name": "Ego Death",
+        "difficulty": "Insane",
+        "stars": 3,
+        "points": 42,
+        "author": "fregues"
     }
 ]
