@@ -502,5 +502,11 @@
         "stars": 5,
         "points": 200,
         "author": "Dmitrix"
+    },
+    {
+        "name": "AlwaysCarry",
+        "stars": 3,
+        "points": 110,
+        "author": "AssahiN"
     }
 ]

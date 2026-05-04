@@ -8125,5 +8125,12 @@
         "stars": 5,
         "points": 200,
         "author": "Dmitrix"
+    },
+    {
+        "name": "AlwaysCarry",
+        "difficulty": "Extreme",
+        "stars": 3,
+        "points": 110,
+        "author": "AssahiN"
     }
 ]
