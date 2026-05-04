@@ -8118,5 +8118,12 @@
         "stars": 2,
         "points": 42,
         "author": "八度空间"
+    },
+    {
+        "name": "The End Darkness",
+        "difficulty": "Extreme",
+        "stars": 5,
+        "points": 200,
+        "author": "Dmitrix"
     }
 ]
