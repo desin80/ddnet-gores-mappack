@@ -8195,5 +8195,12 @@
         "stars": 1,
         "points": 53,
         "author": "Desin"
+    },
+    {
+        "name": "Crazy Arrow",
+        "difficulty": "Insane",
+        "stars": 2,
+        "points": 40,
+        "author": "潘潘"
     }
 ]
