@@ -8188,5 +8188,12 @@
         "stars": 3,
         "points": 12,
         "author": "怯修"
+    },
+    {
+        "name": "DeepBlue",
+        "difficulty": "Extreme",
+        "stars": 1,
+        "points": 53,
+        "author": "Desin"
     }
 ]
