@@ -19,9 +19,9 @@ This repository contains gores maps collected personally.
 
 ## Stats
 
-- Total maps: `1174`
+- Total maps: `1175`
 - Extreme: `89`
-- Insane: `281`
+- Insane: `282`
 - Hard: `337`
 - Main: `347`
 - Easy: `34`
