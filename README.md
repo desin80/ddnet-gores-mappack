@@ -4,6 +4,8 @@
 
 该仓库包含了个人收集的 gores 地图。
 
+来源：KoG (King of Gores), Axiom, 0XF, EGO (Eternal Gores)
+
 > metadata 可能不是 100% 准确。
 
 ## 内容

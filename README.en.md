@@ -4,6 +4,8 @@
 
 This repository contains gores maps collected personally.
 
+Source: KoG (King of Gores), Axiom, 0XF, EGO (Eternal Gores)
+
 > metadata may not be 100% accurate.
 
 ## Contents
