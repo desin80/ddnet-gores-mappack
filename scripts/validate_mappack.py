@@ -9,7 +9,6 @@ from pathlib import Path
 
 
 DIFFICULTIES = ("easy", "main", "hard", "insane", "extreme", "mod", "solo")
-ALL_DIFFICULTIES = (*DIFFICULTIES, "uncategorized")
 DISPLAY_NAMES = {
     "easy": "Easy",
     "main": "Main",
@@ -38,7 +37,7 @@ def validate(root: Path) -> tuple[list[str], dict[str, int]]:
     maplists_dir = root / "maplists"
     metadata_dir = root / "metadata"
 
-    for difficulty in ALL_DIFFICULTIES:
+    for difficulty in DIFFICULTIES:
         if not (maps_dir / difficulty).is_dir():
             fail(errors, f"missing maps/{difficulty}/")
 
@@ -79,10 +78,8 @@ def validate(root: Path) -> tuple[list[str], dict[str, int]]:
             fail(errors, f"map must be exactly one difficulty below maps/: {path.relative_to(root)}")
             continue
         difficulty, filename = rel.parts
-        if difficulty not in ALL_DIFFICULTIES:
+        if difficulty not in DIFFICULTIES:
             fail(errors, f"unknown difficulty directory: {path.relative_to(root)}")
-            continue
-        if difficulty == "uncategorized":
             continue
         name = path.stem
         expected_difficulty = maplist_names.get(name)
