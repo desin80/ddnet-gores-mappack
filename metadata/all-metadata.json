@@ -8265,5 +8265,12 @@
         "stars": 2,
         "points": 87,
         "author": "Themix"
+    },
+    {
+        "name": "PEAK",
+        "difficulty": "Extreme",
+        "stars": 1,
+        "points": 52,
+        "author": "Afterbjörn"
     }
 ]
