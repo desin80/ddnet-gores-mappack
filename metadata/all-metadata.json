@@ -8314,5 +8314,12 @@
         "stars": 2,
         "points": 64,
         "author": "johny tailor"
+    },
+    {
+        "name": "Sparktastic",
+        "difficulty": "Insane",
+        "stars": 2,
+        "points": 45,
+        "author": "Krumplee"
     }
 ]
