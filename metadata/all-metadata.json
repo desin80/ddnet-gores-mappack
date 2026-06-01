@@ -8321,5 +8321,12 @@
         "stars": 2,
         "points": 45,
         "author": "Krumplee"
+    },
+    {
+        "name": "KrumpleeWorld",
+        "difficulty": "Extreme",
+        "stars": 3,
+        "points": 88,
+        "author": "Krumplee"
     }
 ]
