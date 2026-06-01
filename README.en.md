@@ -21,8 +21,8 @@ Source: KoG (King of Gores), Axiom, 0XF, EGO (Eternal Gores)
 
 ## Stats
 
-- Total maps: `1187`
-- Extreme: `99`
+- Total maps: `1188`
+- Extreme: `100`
 - Insane: `283`
 - Hard: `337`
 - Main: `348`

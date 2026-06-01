@@ -8307,5 +8307,12 @@
         "stars": 3,
         "points": 20,
         "author": "Rei ayanami"
+    },
+    {
+        "name": "sundots",
+        "difficulty": "Extreme",
+        "stars": 2,
+        "points": 64,
+        "author": "johny tailor"
     }
 ]
