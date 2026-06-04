@@ -8363,5 +8363,12 @@
         "stars": 2,
         "points": 12,
         "author": "sasha34827"
+    },
+    {
+        "name": "demon",
+        "difficulty": "Insane",
+        "stars": 3,
+        "points": 38,
+        "author": "fregues"
     }
 ]
