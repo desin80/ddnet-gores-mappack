@@ -202,5 +202,11 @@
         "stars": 3,
         "points": 3,
         "author": "Afterbjörn"
+    },
+    {
+        "name": "TETRIS",
+        "stars": 1,
+        "points": 1,
+        "author": "Markus777777"
     }
 ]

@@ -8391,5 +8391,12 @@
         "stars": 2,
         "points": 36,
         "author": "Mixi"
+    },
+    {
+        "name": "TETRIS",
+        "difficulty": "Easy",
+        "stars": 1,
+        "points": 1,
+        "author": "Markus777777"
     }
 ]
