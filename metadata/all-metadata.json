@@ -8426,5 +8426,12 @@
         "stars": 3,
         "points": 98,
         "author": "суинку"
+    },
+    {
+        "name": "Clover",
+        "difficulty": "Extreme",
+        "stars": 5,
+        "points": 160,
+        "author": "Immortal"
     }
 ]
