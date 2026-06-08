@@ -8412,5 +8412,12 @@
         "stars": 2,
         "points": 70,
         "author": "CeyCen"
+    },
+    {
+        "name": "Rainbow",
+        "difficulty": "Extreme",
+        "stars": 4,
+        "points": 125,
+        "author": "刀锋战士"
     }
 ]
