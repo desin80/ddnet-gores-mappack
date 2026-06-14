@@ -8482,5 +8482,12 @@
         "stars": 2,
         "points": 6,
         "author": "Krush"
+    },
+    {
+        "name": "Badoussor",
+        "difficulty": "Insane",
+        "stars": 1,
+        "points": 30,
+        "author": "Ssor"
     }
 ]
