@@ -8559,5 +8559,12 @@
         "stars": 2,
         "points": 64,
         "author": "fraizon."
+    },
+    {
+        "name": "Vote",
+        "difficulty": "Extreme",
+        "stars": 2,
+        "points": 62,
+        "author": "Milaseq_"
     }
 ]
