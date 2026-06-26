@@ -8615,5 +8615,12 @@
         "stars": 3,
         "points": 124,
         "author": "Roxygen"
+    },
+    {
+        "name": "Gloom",
+        "difficulty": "Extreme",
+        "stars": 5,
+        "points": 290,
+        "author": "刀锋战士"
     }
 ]
