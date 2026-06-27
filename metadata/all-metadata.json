@@ -8622,5 +8622,12 @@
         "stars": 5,
         "points": 290,
         "author": "刀锋战士"
+    },
+    {
+        "name": "Summer Splash",
+        "difficulty": "Solo",
+        "stars": 3,
+        "points": 14,
+        "author": "FJP"
     }
 ]
