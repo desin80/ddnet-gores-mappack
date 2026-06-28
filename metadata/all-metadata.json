@@ -8629,5 +8629,12 @@
         "stars": 3,
         "points": 14,
         "author": "FJP"
+    },
+    {
+        "name": "随性",
+        "difficulty": "Insane",
+        "stars": 1,
+        "points": 27,
+        "author": "怯修"
     }
 ]
