@@ -718,5 +718,11 @@
         "stars": 5,
         "points": 290,
         "author": "刀锋战士"
+    },
+    {
+        "name": "Durability",
+        "stars": 1,
+        "points": 46,
+        "author": "Krush"
     }
 ]

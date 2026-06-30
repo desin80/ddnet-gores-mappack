@@ -8650,5 +8650,12 @@
         "stars": 3,
         "points": 38,
         "author": "johny tailor"
+    },
+    {
+        "name": "Durability",
+        "difficulty": "Extreme",
+        "stars": 1,
+        "points": 46,
+        "author": "Krush"
     }
 ]
