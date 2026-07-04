@@ -8664,5 +8664,12 @@
         "stars": 3,
         "points": 32,
         "author": "Krush"
+    },
+    {
+        "name": "Hanami",
+        "difficulty": "Insane",
+        "stars": 2,
+        "points": 50,
+        "author": "MQX"
     }
 ]

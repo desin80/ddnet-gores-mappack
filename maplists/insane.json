@@ -1756,5 +1756,11 @@
         "stars": 3,
         "points": 38,
         "author": "johny tailor"
+    },
+    {
+        "name": "Hanami",
+        "stars": 2,
+        "points": 50,
+        "author": "MQX"
     }
 ]
