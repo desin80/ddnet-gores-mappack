@@ -8678,5 +8678,12 @@
         "stars": 2,
         "points": 62,
         "author": "Krumplee"
+    },
+    {
+        "name": "fractured",
+        "difficulty": "Insane",
+        "stars": 3,
+        "points": 52,
+        "author": "怯修"
     }
 ]
