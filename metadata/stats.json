@@ -1,5 +1,5 @@
 {
-    "total_maps": 1245,
+    "total_maps": 1246,
     "by_difficulty": {
         "Main": 350,
         "Hard": 340,
@@ -7,6 +7,6 @@
         "Extreme": 124,
         "Easy": 37,
         "Solo": 48,
-        "Mod": 51
+        "Mod": 52
     }
 }

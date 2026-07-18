@@ -8713,5 +8713,12 @@
         "stars": 3,
         "points": 115,
         "author": "Wry"
+    },
+    {
+        "name": "地图",
+        "difficulty": "Mod",
+        "stars": 4,
+        "points": 22,
+        "author": "怯修 & Krush"
     }
 ]
