@@ -8734,5 +8734,12 @@
         "stars": 3,
         "points": 48,
         "author": "v2=1.41421"
+    },
+    {
+        "name": "Yin_Yang",
+        "difficulty": "Extreme",
+        "stars": 2,
+        "points": 64,
+        "author": "Immortal"
     }
 ]
