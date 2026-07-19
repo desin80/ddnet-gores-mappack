@@ -8741,5 +8741,12 @@
         "stars": 2,
         "points": 64,
         "author": "Immortal"
+    },
+    {
+        "name": "660W",
+        "difficulty": "Insane",
+        "stars": 2,
+        "points": 35,
+        "author": "Swarth"
     }
 ]
