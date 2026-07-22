@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 
-DIFFICULTIES = ("easy", "main", "hard", "insane", "extreme", "mod", "solo")
+DIFFICULTIES = ("easy", "main", "hard", "insane", "extreme", "mod", "solo", "training")
 DISPLAY_NAMES = {
     "easy": "Easy",
     "main": "Main",
@@ -17,6 +17,7 @@ DISPLAY_NAMES = {
     "extreme": "Extreme",
     "mod": "Mod",
     "solo": "Solo",
+    "training": "Training",
 }
 
 
@@ -63,6 +64,8 @@ def validate(root: Path) -> tuple[list[str], dict[str, int]]:
                 continue
             if "/" in name or "\\" in name:
                 fail(errors, f"{maplist_path.relative_to(root)} contains path-like map name: {name}")
+            if difficulty == "training" and item.get("points") != 0:
+                fail(errors, f"training map {name!r} must have points=0")
             previous = maplist_names.get(name)
             if previous is not None:
                 fail(errors, f"map {name!r} is listed in both {previous} and {difficulty}")
@@ -87,6 +90,16 @@ def validate(root: Path) -> tuple[list[str], dict[str, int]]:
             fail(errors, f"map is not present in any maplist: {path.relative_to(root)}")
         elif expected_difficulty != difficulty:
             fail(errors, f"map {name!r} is in maps/{difficulty}/ but maplist says {expected_difficulty}")
+
+    all_metadata_path = metadata_dir / "all-metadata.json"
+    if all_metadata_path.exists():
+        all_metadata = load_json(all_metadata_path)
+        if isinstance(all_metadata, list):
+            for index, item in enumerate(all_metadata):
+                if not isinstance(item, dict):
+                    continue
+                if item.get("difficulty") == "Training" and item.get("points") != 0:
+                    fail(errors, f"metadata/all-metadata.json[{index}] training map must have points=0")
 
     stats_path = metadata_dir / "stats.json"
     if stats_path.exists():

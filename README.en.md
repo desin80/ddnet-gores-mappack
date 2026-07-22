@@ -29,3 +29,4 @@ Source: KoG (King of Gores), Axiom, 0XF, EGO (Eternal Gores)
 - Easy: `37`
 - Mod: `52`
 - Solo: `48`
+- Training: `0`
