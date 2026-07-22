@@ -8748,5 +8748,12 @@
         "stars": 2,
         "points": 35,
         "author": "Swarth"
+    },
+    {
+        "name": "Тренировка Gores",
+        "difficulty": "Training",
+        "stars": 0,
+        "points": 0,
+        "author": "TeeFusion"
     }
 ]
