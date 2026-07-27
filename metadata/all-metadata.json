@@ -8804,5 +8804,12 @@
         "stars": 2,
         "points": 60,
         "author": "刀锋战士"
+    },
+    {
+        "name": "CashFlow",
+        "difficulty": "Extreme",
+        "stars": 3,
+        "points": 101,
+        "author": "Emenich"
     }
 ]
