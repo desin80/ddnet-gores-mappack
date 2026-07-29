@@ -220,5 +220,11 @@
         "stars": 3,
         "points": 5,
         "author": "overklig"
+    },
+    {
+        "name": "Pixel",
+        "stars": 3,
+        "points": 4,
+        "author": "FJP"
     }
 ]
