@@ -30,3 +30,4 @@ Source: KoG (King of Gores), Axiom, 0XF, EGO (Eternal Gores)
 - Mod: `49`
 - Solo: `49`
 - Training: `5`
+- JET: `0`

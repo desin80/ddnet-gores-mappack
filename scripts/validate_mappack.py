@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 
-DIFFICULTIES = ("easy", "main", "hard", "insane", "extreme", "mod", "solo", "training")
+DIFFICULTIES = ("easy", "main", "hard", "insane", "extreme", "mod", "solo", "training", "jet")
 DISPLAY_NAMES = {
     "easy": "Easy",
     "main": "Main",
@@ -18,6 +18,7 @@ DISPLAY_NAMES = {
     "mod": "Mod",
     "solo": "Solo",
     "training": "Training",
+    "jet": "JET",
 }
 
 
