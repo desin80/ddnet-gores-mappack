@@ -8888,5 +8888,12 @@
         "stars": 2,
         "points": 68,
         "author": "levanchik"
+    },
+    {
+        "name": "Pathfinder",
+        "difficulty": "Solo",
+        "stars": 4,
+        "points": 27,
+        "author": "怯修"
     }
 ]
