@@ -796,5 +796,11 @@
         "stars": 2,
         "points": 74,
         "author": "levanchik"
+    },
+    {
+        "name": "2^(2)=4",
+        "stars": 3,
+        "points": 63,
+        "author": "√2=1.41421"
     }
 ]

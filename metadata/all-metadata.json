@@ -8895,5 +8895,12 @@
         "stars": 1,
         "points": 27,
         "author": "Minem"
+    },
+    {
+        "name": "2^(2)=4",
+        "difficulty": "Extreme",
+        "stars": 3,
+        "points": 63,
+        "author": "√2=1.41421"
     }
 ]
