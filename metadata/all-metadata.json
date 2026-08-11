@@ -8909,5 +8909,12 @@
         "stars": 2,
         "points": 3,
         "author": "Afterbjörn"
+    },
+    {
+        "name": "SnowGlide",
+        "difficulty": "Extreme",
+        "stars": 3,
+        "points": 120,
+        "author": "Assahin"
     }
 ]
