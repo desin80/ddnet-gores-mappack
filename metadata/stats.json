@@ -1,11 +1,11 @@
 {
-    "total_maps": 1272,
+    "total_maps": 1273,
     "by_difficulty": {
         "Main": 350,
         "Hard": 340,
         "Insane": 300,
         "Extreme": 134,
-        "Easy": 38,
+        "Easy": 39,
         "Solo": 49,
         "Mod": 50,
         "Training": 5,
