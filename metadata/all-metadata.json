@@ -8930,5 +8930,12 @@
         "stars": 1,
         "points": 6,
         "author": "怯修"
+    },
+    {
+        "name": "hd",
+        "difficulty": "Hard",
+        "stars": 1,
+        "points": 16,
+        "author": "怯修"
     }
 ]
