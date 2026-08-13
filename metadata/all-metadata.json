@@ -8916,5 +8916,12 @@
         "stars": 3,
         "points": 120,
         "author": "Assahin"
+    },
+    {
+        "name": "Pathfinder",
+        "difficulty": "Solo",
+        "stars": 5,
+        "points": 44,
+        "author": "怯修"
     }
 ]
