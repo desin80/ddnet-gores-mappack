@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 *.tmp
+
+# Route files are generated into the server runtime cache by the agent.
+maps/**/*.route
