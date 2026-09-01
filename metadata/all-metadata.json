@@ -9014,5 +9014,12 @@
         "stars": 0,
         "points": 0,
         "author": "RipperSJ"
+    },
+    {
+        "name": "DeathHook",
+        "difficulty": "Insane",
+        "stars": 1,
+        "points": 27,
+        "author": "Jonas"
     }
 ]
