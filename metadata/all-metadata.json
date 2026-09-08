@@ -9056,5 +9056,12 @@
         "stars": 3,
         "points": 38,
         "author": "山风"
+    },
+    {
+        "name": "Generic_Yellow",
+        "difficulty": "Main",
+        "stars": 1,
+        "points": 6,
+        "author": "Zonsa"
     }
 ]
